@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.box{
+	background-image: url(../images/portfolio-homepage-background.jpeg);
+	padding: 250px;
+	margin: 100px;
+	border: 2px solid black;
+	background-repeat: no repeat;
+	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+h1{
+	background-color:white;
+	border: 1px solid black;
+	border-bottom: 0;
+}
+
+h2{
+	background-color:white;
+	border: 1px solid black;
+	border-top: 0;
+}
+
+a {
+		display: block;
+		color: #000;
+		padding: 8px 11px;
+		text-decoration: none;
+}
+
+a:hover{
+		background-color: #555;
+		color: white;
+}
+
+a.active {
+		background-color: #4CAF50;
+		color: white;
+		display: block;
+		padding: 8px 16px;
+		text-decoration: none;
+}
