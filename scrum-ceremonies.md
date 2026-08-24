@@ -4,7 +4,7 @@
 ### Purpose of scrum ceremonies
 Scrum ceremonies are used to plan, track, and complete various projects in a <ins>**sprint**</ins>. A sprint is a 2 week time-period during which your team works on completing portions of the final deliverable. In one quarter, there are about 6 full sprints. The main players of scrum ceremonies are as follows.
   + *Scrum master* - the facilitator who ensures teams stay on track. Helps to remove any ostacles or blockers the team may face.
-  + *Product Owner (PO) or Product Manager* (PM) - the owner of a product. Acts as the subjet matter expert, or SME, for their team.
+  + *Product Owner (PO)* or *Product Manager (PM)* - the owner of a product. Acts as the subjet matter expert, or SME, for their team.
   + *Scrum team* - The team responsible for product development. Can include deveopers, technical managers, team leads, and technical writers.
 
 ### Scrum ceremony workflow
